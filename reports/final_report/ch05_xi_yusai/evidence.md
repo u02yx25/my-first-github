@@ -1,7 +1,7 @@
 # Chapter 5.5 Evidence & Source Anchors
 
 **Author:** Xi Yusai (50105989)
-**Section:** Graphical User Interface (5.5.1 – 5.5.3)
+**Section:** Graphical User Interface (5.5.1 – 5.5.4)
 
 ## 1. Code Reference Anchors
 All implementation descriptions in this chapter are traceable to the following repository files.
@@ -34,8 +34,8 @@ All design and implementation items strictly correspond to the group Requirement
 | NFR-08 | 5.5.3.1 | Desktop-first responsive adaptation, core functions available on mobile |
 
 ## 4. Figure Sources
-| Figure ID | Source File | Description |
-| :--- | :--- | :--- |
-| Fig 5.3 | `assets/fig5-3-trap-drawer.png` | Screenshot of Trap Drawer misconception detail component |
-| Fig 5.4 | `assets/fig5-4-console-overview.png` | Full panoramic screenshot of the student console main interface |
-| Fig 5.5 | `assets/fig5-5-radar-state.png` | Five-dimension radar chart and component state demonstration |
+| Figure ID | Description |
+| :--- | :--- |
+| Fig 5.3 | Split-Screen Five-Layer Trap Drawer Architecture diagram |
+| Fig 5.4 | Panoramic layout overview of the student-side main console |
+| Fig 5.5 | Five-axis competency mastery radar schematic |
